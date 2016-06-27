@@ -17,15 +17,11 @@ So yesterday, I [tweeted](https://twitter.com/thatdocslady/status/47062044553302
 
 And then magic happened:
 
-> [@OKFestival](https://twitter.com/OKFestival) [@writethedocs](https://twitter.com/writethedocs) [@thatdocslady](https://twitter.com/thatdocslady) actually, what about doing a mini [\#writethedocs](https://twitter.com/search?q=%23writethedocs&src=hash) event in Berlin as a fringe event?
->
-> — Kristof Van Tomme (@kvantomme) [May 26, 2014](https://twitter.com/kvantomme/statuses/470864534740430848)
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OKFestival">@OKFestival</a> <a href="https://twitter.com/writethedocs">@writethedocs</a> <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> actually, what about doing a mini <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> event in Berlin as a fringe event?</p>&mdash; Kristof Van Tomme (@kvantomme) <a href="https://twitter.com/kvantomme/status/470864534740430848">May 26, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> [@kvantomme](https://twitter.com/kvantomme) haha it seems that we suffered similar fate from two different sources. Maybe get a meetup fringe event on the weekend between?
->
-> — Mikey Ariel (@thatdocslady) [May 26, 2014](https://twitter.com/thatdocslady/statuses/470862211100192768)
-
- 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kvantomme">@kvantomme</a> haha it seems that we suffered similar fate from two different sources. Maybe get a meetup fringe event on the weekend between?</p>&mdash; Mikey Ariel (@ThatDocsLady) <a href="https://twitter.com/ThatDocsLady/status/470862211100192768">May 26, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I really do love the internet.
 

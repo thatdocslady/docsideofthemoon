@@ -11,15 +11,13 @@ tags: Open Knowledge Festival
 
 When I registered for [Open Knowledge Festival](http://2014.okfestival.org/), I had a broad idea of what the main themes will be and what types of people it might attract, but it wasn't until I showed up at Kulturbrauerei this afternoon that I realized just how important this event is, at such a pivotal time in our data and knowledge history. And then I got \*really\* excited about being here.
 
-> RT [@thatdocslady](https://twitter.com/thatdocslady): Red Hatters do open! [\#okfest14](https://twitter.com/hashtag/okfest14?src=hash) [\#redhat](https://twitter.com/hashtag/redhat?src=hash) [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [pic.twitter.com/Kc1mqnQ8jM](http://t.co/Kc1mqnQ8jM)
->
-> — Life at Red Hat (@RedHatJobs) [July 15, 2014](https://twitter.com/RedHatJobs/statuses/489138643827560448)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a>: Red Hatters do open! <a href="https://twitter.com/hashtag/okfest14?src=hash">#okfest14</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="http://t.co/Kc1mqnQ8jM">pic.twitter.com/Kc1mqnQ8jM</a></p>&mdash; Life at Red Hat (@RedHatJobs) <a href="https://twitter.com/RedHatJobs/status/489138643827560448">July 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The opening announcements included personal introductions from the main sponsors of the event, which included familiar names such as Google and the [Partnership for Open Data](https://okfn.org/projects/partnership-for-open-data/), whose activities in the open data and open knowledge fields are well-known and welcome. The [School of Data](http://schoolofdata.org/) introduced their latest graduates of their training program, who will be carrying the work of the foundation in countries such as Peru and the Philippines.
 
-> .[@SchoolofData](https://twitter.com/SchoolOfData) Fellows from around the world. So awesome - I remember when the program was just an idea [\#okfest14](https://twitter.com/hashtag/okfest14?src=hash) [pic.twitter.com/5IR9YEbthR](http://t.co/5IR9YEbthR)
->
-> — Sheba Najmi (@snajmi) [July 15, 2014](https://twitter.com/snajmi/statuses/489153345761079296)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/SchoolOfData">@SchoolofData</a> Fellows from around the world. So awesome - I remember when the program was just an idea <a href="https://twitter.com/hashtag/okfest14?src=hash">#okfest14</a> <a href="http://t.co/5IR9YEbthR">pic.twitter.com/5IR9YEbthR</a></p>&mdash; Sheba Najmi (@snajmi) <a href="https://twitter.com/snajmi/status/489153345761079296">July 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I was happy to see also some interesting new players like [Artists Without a Cause](http://artistswac.org/) (AWAC), who have made it their mission to connect artists with organizations and thereby deliver the organization's message through different visual and performance arts. As a geek-by-day-artist-by-night, I think it's a wonderful collaborative project, and as an organizer I will definitely keep them on my books for future events!
 
@@ -33,9 +31,8 @@ I ended up delivering a speech that actually wasn't made by a politician, but by
 
 I won't go into the background details of this speech, your Google is as good as mine and that's not the subject at hand, but I will say that despite the naturally-satirical nature of the Politaoke project, delivering this particular speech at this particular space and time turned out to be quite an emotional, almost cathartic experience for me, since it touched upon many of the reasons I no longer live where my Hebrew is of any use.
 
-> [@thatdocslady](https://twitter.com/thatdocslady) on stage doing [\#politaoke](https://twitter.com/hashtag/politaoke?src=hash) [@OKFestival](https://twitter.com/OKFestival) [@writethedocs](https://twitter.com/writethedocs) [pic.twitter.com/g0mPipJr5g](http://t.co/g0mPipJr5g)
->
-> — David Hooker (@HookerDavidJ) [July 15, 2014](https://twitter.com/HookerDavidJ/statuses/489106044967456768)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> on stage doing <a href="https://twitter.com/hashtag/politaoke?src=hash">#politaoke</a> <a href="https://twitter.com/OKFestival">@OKFestival</a> <a href="https://twitter.com/writethedocs">@writethedocs</a> <a href="http://t.co/g0mPipJr5g">pic.twitter.com/g0mPipJr5g</a></p>&mdash; David Hooker (@HookerDavidJ) <a href="https://twitter.com/HookerDavidJ/status/489106044967456768">July 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But I digress. After watching an Asian girl deliver a Barack Obama speech (talk about lyrical dissonance!) and two people, not one, deliver an Al Gore speech, I've had my fill of politics for the year and moved on to wander about some more.
 

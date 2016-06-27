@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write the Docs EU 2014, the beginning of my journey as a documentarian
-date: 2014-05-17 11:45:07.000000000 +02:00
+date: 2014-05-17 11:45:07 +02:00
 type: post
 published: true
 categories: events
