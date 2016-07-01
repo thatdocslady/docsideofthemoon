@@ -22,9 +22,8 @@ When Kristof and I [decided to organize the unconference](http://docsideofthemoo
 
 [Unconferences](http://en.wikipedia.org/wiki/Unconference) are fairly common in the FOSS communities, and they work in quite a simple way: You turn up in the morning, pitch your open-space session, and get sorted into a time slot. The sessions can take up any format \*except\* presentation, which means that the participants get a chance to actively contribute to discussions instead of sitting in the audience while one or two people are speaking.
 
-> Let the open space sessions begin! [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [pic.twitter.com/urQqlhba38](http://t.co/urQqlhba38)
->
-> — writethedocs (@writethedocs) [July 19, 2014](https://twitter.com/writethedocs/statuses/490433657245814784)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let the open space sessions begin! <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="http://t.co/urQqlhba38">pic.twitter.com/urQqlhba38</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490433657245814784">July 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The only deviation we had from the format was that we decided to invite a few speakers to talk about several key themes that we wanted to highlight throughout the event. We wanted the talks to act as catalysts for open-space session ideas and help encourage more focused discussions.
 
@@ -34,9 +33,8 @@ Write the Docs is an emerging community, having existed officially for less than
 
 Our speaker for this theme was [Dr. Paul Adams](https://twitter.com/therealpadams) from KDAB, who not only has been managing the KDE community for many years but actually wrote his PhD thesis on measuring communities. [Paul's talk](http://lanyrd.com/2014/write-the-docs-eu-berlin-unconference/sdbfrr/) was more focused on emerging communities (because we are), and he gave a great overview on the different focal points to consider when you examine how a community functions, what are its strong points and in which areas can it improve.
 
-> Visualizing community interaction with [@therealpadams](https://twitter.com/therealpadams) [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [pic.twitter.com/E0cPBUtNUx](http://t.co/E0cPBUtNUx)
->
-> — Kay Smoljak (@goatlady) [July 19, 2014](https://twitter.com/goatlady/statuses/490426250931220480)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Visualizing community interaction with <a href="https://twitter.com/therealpadams">@therealpadams</a> <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="http://t.co/E0cPBUtNUx">pic.twitter.com/E0cPBUtNUx</a></p>&mdash; Kay Smoljak (@goatlady) <a href="https://twitter.com/goatlady/status/490426250931220480">July 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Tone and style
 
@@ -46,9 +44,8 @@ Back in Budapest, we got to hear [Jessica Rose](https://twitter.com/jesslynnrose
 
 We also brought back [David Hooker](https://twitter.com/HookerDavidJ) from Prezi, who used amusing anecdotes from his life as a [technical writer in a developer's world](http://lanyrd.com/2014/write-the-docs-eu-berlin-unconference/sdbfth/) to bring us some solid guidelines on communicating your message effectively to your readers. His talk delivered more general tips and tricks (keep it simple.. simple!), and resonated with the general trends in the tech fields towards lean, concise, no-nonsense content for readers who are getting smarter and less patient at roughly the same rate.
 
-> Day 2 is on! [@HookerDavidJ](https://twitter.com/HookerDavidJ) has his [@prezi](https://twitter.com/prezi) up and running. [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [pic.twitter.com/IkTiGVRiXl](http://t.co/IkTiGVRiXl)
->
-> — writethedocs (@writethedocs) [July 20, 2014](https://twitter.com/writethedocs/statuses/490776490926407680)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 2 is on! <a href="https://twitter.com/HookerDavidJ">@HookerDavidJ</a> has his <a href="https://twitter.com/prezi">@prezi</a> up and running. <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="http://t.co/IkTiGVRiXl">pic.twitter.com/IkTiGVRiXl</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490776490926407680">July 20, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Life in the development ecosystem
 
@@ -60,9 +57,8 @@ The first talk was by [Thomas Parisot](https://twitter.com/oncletom), a JavaScri
 
 The second talk was by [Honza Král](https://twitter.com/HonzaKral) from ElasticSearch (our Saturday party sponsors, more detailed thanks at the end of the post), who gave us an interesting look into ElasticSearch's journey to create [multilingual API specs and descriptions](http://lanyrd.com/2014/write-the-docs-eu-berlin-unconference/sdbftq/). Even though the talk didn't directly discuss end-user documentation, it was a great example of the steps that open source companies are taking to encourage contributors by creating well-documented templates and guidelines.
 
-> Thank you [@HonzaKral](https://twitter.com/HonzaKral)! [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [\#Elasticsearch](https://twitter.com/hashtag/Elasticsearch?src=hash) [pic.twitter.com/HItHklt2sW](http://t.co/HItHklt2sW)
->
-> — writethedocs (@writethedocs) [July 20, 2014](https://twitter.com/writethedocs/statuses/490846614551285760)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/HonzaKral">@HonzaKral</a>! <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="https://twitter.com/hashtag/Elasticsearch?src=hash">#Elasticsearch</a> <a href="http://t.co/HItHklt2sW">pic.twitter.com/HItHklt2sW</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490846614551285760">July 20, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Open-space sessions
 -------------------
@@ -71,9 +67,8 @@ Unfortunately, being the event organizer meant that I didn't get a chance to att
 
 The session topics were wonderfully diverse, ranging from community building to continuous integration and even a session on how to become a technical writer! The session attendance was around 7-12 people per session, which seemed to be a great size for focused brainstorming and knowledge-sharing.
 
-> More open space sessions! Follow the etherpads and [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) to stay updated. [pic.twitter.com/O09sLNKpRY](http://t.co/O09sLNKpRY)
->
-> — writethedocs (@writethedocs) [July 20, 2014](https://twitter.com/writethedocs/statuses/490805162102231040)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More open space sessions! Follow the etherpads and <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> to stay updated. <a href="http://t.co/O09sLNKpRY">pic.twitter.com/O09sLNKpRY</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490805162102231040">July 20, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ok ok, there's no graceful way to segway into the post-conference thanks, so I'm just going to dive right in:
 
@@ -87,17 +82,14 @@ Their organization was impeccable and we are extremely lucky to have been able t
 
 Thanks to [Red Hat](https://twitter.com/RedHatNews) we were able to offer our attendees drinks and snacks throughout the days of the conference (even Club Mate! geeking out in style). [ElasticSearch](https://twitter.com/elasticsearch) joined the fun too and sponsored our Saturday party, and our community sponsorship tickets helped us treat our folks to a few rounds on Friday and Sunday.
 
-> Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 1/3): [@nickstenning](https://twitter.com/nickstenning) [@therealstief](https://twitter.com/therealstief) [@fishytom](https://twitter.com/Fishytom)
->
-> — writethedocs (@writethedocs) [July 19, 2014](https://twitter.com/writethedocs/statuses/490389874818576384)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 1/3): <a href="https://twitter.com/nickstenning">@nickstenning</a> <a href="https://twitter.com/therealstief">@therealstief</a> <a href="https://twitter.com/Fishytom">@fishytom</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490389874818576384">July 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 2/3): [@jezdez](https://twitter.com/jezdez) [@OldhamMade](https://twitter.com/OldhamMade) [@seanh](https://twitter.com/seanh) [@plaindocs](https://twitter.com/plaindocs)
->
-> — writethedocs (@writethedocs) [July 19, 2014](https://twitter.com/writethedocs/statuses/490390091987038208)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 2/3): <a href="https://twitter.com/jezdez">@jezdez</a> <a href="https://twitter.com/OldhamMade">@OldhamMade</a> <a href="https://twitter.com/seanh">@seanh</a> <a href="https://twitter.com/plaindocs">@plaindocs</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490390091987038208">July 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 3/3): [@bmispelon](https://twitter.com/bmispelon) [@sproutfund](https://twitter.com/sproutfund) [@into\_words](https://twitter.com/into_words)
->
-> — writethedocs (@writethedocs) [July 19, 2014](https://twitter.com/writethedocs/statuses/490390341325819904)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big thanks to our community contributors who donated to support the WTD: Berlin Unconf (Part 3/3): <a href="https://twitter.com/bmispelon">@bmispelon</a> <a href="https://twitter.com/sproutfund">@sproutfund</a> <a href="https://twitter.com/into_words">@into_words</a></p>&mdash; Write the Docs (@writethedocs) <a href="https://twitter.com/writethedocs/status/490390341325819904">July 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Media partner
 

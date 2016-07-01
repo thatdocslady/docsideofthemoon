@@ -56,9 +56,8 @@ Even though I haven't directly contributed to the Django documentation (yet, I'v
 
 The brainwave came about after we realized that the tutorial needs a lot of work (a version 1.0 of anything is always a little shaky), and when I found out about the Django core sprint I thought it would be a great opportunity to get the girls to work on improving the tutorial, both for the sake of future workshops and to give them a chance to expand their knowledge beyond what the workshop provided.
 
-> .[@djangogirls](https://twitter.com/djangogirls) rock the docs!!! [\#ep14](https://twitter.com/hashtag/ep14?src=hash) [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [\#writethedocs](https://twitter.com/hashtag/writethedocs?src=hash) [pic.twitter.com/sRYHxF9UOj](http://t.co/sRYHxF9UOj)
->
-> — Mikey Ariel (@thatdocslady) [July 26, 2014](https://twitter.com/thatdocslady/statuses/493003721232490497)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/djangogirls">@djangogirls</a> rock the docs!!! <a href="https://twitter.com/hashtag/ep14?src=hash">#ep14</a> <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="https://twitter.com/hashtag/writethedocs?src=hash">#writethedocs</a> <a href="http://t.co/sRYHxF9UOj">pic.twitter.com/sRYHxF9UOj</a></p>&mdash; Mikey Ariel (@ThatDocsLady) <a href="https://twitter.com/ThatDocsLady/status/493003721232490497">July 26, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The tutorial was written in Markdown, stored on Github, and published with GitBook, which cover the most widely-used components that I've seen in community documentation. Not only that, by teaching the girls to use Github they got to experience common tasks that developers go through (forking, cloning, pull requests).
 
@@ -68,13 +67,13 @@ As for me, I didn't do much work on the tutorial itself because organizer (facil
 
 Plus, now there is a tutorial on how to update the tutorial, and post-workshop tutorial doc sprints are being included in future Django Girls workshops! How amazing is that? 
 
-> [@thatdocslady](https://twitter.com/thatdocslady) <https://t.co/NGz2g61v4l> /cc [@djangogirls](https://twitter.com/djangogirls) — Mikko Ohtamaa (@moo9000) [July 26, 2014](https://twitter.com/moo9000/statuses/493007218287976448)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> <a href="https://t.co/NGz2g61v4l">https://t.co/NGz2g61v4l</a> /cc <a href="https://twitter.com/djangogirls">@djangogirls</a></p>&mdash; Mikko Ohtamaa (@moo9000) <a href="https://twitter.com/moo9000/status/493007218287976448">July 26, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *Another side-note: I have lots more to elaborate about the documentation sprint in the context of my work at Red Hat and as a documentarian, but that's a different post that's coming up soon ;-)*
 
-> Really impressed by all the contributions to [@djangogirls](https://twitter.com/djangogirls) tutorial on sprints! Thanks [@oinopion](https://twitter.com/oinopion) & [@thatdocslady](https://twitter.com/thatdocslady) for coordinating that! [\#ep14](https://twitter.com/hashtag/ep14?src=hash)
->
-> — Ola Sitarska (@olasitarska) [July 27, 2014](https://twitter.com/olasitarska/statuses/493366639149080576)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Really impressed by all the contributions to <a href="https://twitter.com/djangogirls">@djangogirls</a> tutorial on sprints! Thanks <a href="https://twitter.com/oinopion">@oinopion</a> &amp; <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> for coordinating that! <a href="https://twitter.com/hashtag/ep14?src=hash">#ep14</a></p>&mdash; Ola Sitarska (@olasitarska) <a href="https://twitter.com/olasitarska/status/493366639149080576">July 27, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Challenge accepted: Build a support network of women leaders?
 
@@ -88,7 +87,8 @@ Remember leading by example? This was definitely a good chance for it. Even befo
 
 The workshop organizers Ola and Ola (yes it's a running gag but we love them!) also held a meeting during EuroPython where we discussed what it takes to organize a Django Girls workshop, and I got to hear the girls talk about some of the concerns and obstacles that they expect to face.
 
-> Who wants to help take [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) to Kenya? Calling [\#ep14](https://twitter.com/hashtag/ep14?src=hash) folks, [\#okfest14](https://twitter.com/hashtag/okfest14?src=hash) folks, let's make that magic happen! [pic.twitter.com/IkVbwAcQ9t](http://t.co/IkVbwAcQ9t) — Mikey Ariel (@thatdocslady) [July 24, 2014](https://twitter.com/thatdocslady/statuses/492265412512321537)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who wants to help take <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> to Kenya? Calling <a href="https://twitter.com/hashtag/ep14?src=hash">#ep14</a> folks, <a href="https://twitter.com/hashtag/okfest14?src=hash">#okfest14</a> folks, let&#39;s make that magic happen! <a href="http://t.co/IkVbwAcQ9t">pic.twitter.com/IkVbwAcQ9t</a></p>&mdash; Mikey Ariel (@ThatDocsLady) <a href="https://twitter.com/ThatDocsLady/status/492265412512321537">July 24, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And then doc sprint happened, where I got to show the girls that sometimes it only takes one person to decide that they're "going for it" to make things happen. Of course, this was a 1-day sprint at EuroPython and not a full-blown workshop, but combined with the empowerment that the workshop itself already created, I felt that I was able to contribute to the project in a reproducible way.
 
@@ -100,9 +100,8 @@ I really do feel blessed to have these women in my life now. They traveled from 
 
 These women are proactive, sharp, and brave, and we now have an amazing core of future community leaders, all women and all well-deserving of their achievements. There were even other Israeli girls in our workshop! Three Israelis out of 45 participants, respect!
 
-> Israeli [@djangogirls](https://twitter.com/djangogirls) FTW! [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [\#ep14](https://twitter.com/hashtag/ep14?src=hash) [pic.twitter.com/ScEKyRRMWZ](http://t.co/ScEKyRRMWZ)
->
-> — Mikey Ariel (@thatdocslady) [July 25, 2014](https://twitter.com/thatdocslady/statuses/492619752196423680)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Israeli <a href="https://twitter.com/djangogirls">@djangogirls</a> FTW! <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="https://twitter.com/hashtag/ep14?src=hash">#ep14</a> <a href="http://t.co/ScEKyRRMWZ">pic.twitter.com/ScEKyRRMWZ</a></p>&mdash; Mikey Ariel (@ThatDocsLady) <a href="https://twitter.com/ThatDocsLady/status/492619752196423680">July 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Challenge accepted: Test your geek level?
 
@@ -120,7 +119,8 @@ I found myself looking at code snippets and \*getting it\*, which felt really go
 
 Working with DITA and DocBook gave me a solid XML basis that I could apply when reading through and organizing section tags in my HTML templates. And my experience using IDEs (Eclipse, IntelliJ) helped me keep track of my syntax and the color-coding was a savior when I needed to tweak the templates in double-quick time, which was good because I had so many environment problems that I ended up losing almost half a day fighting with my system and had to race to make the deadline for deployment.
 
-> This was just before we solved the problem [@djangogirls](https://twitter.com/djangogirls). It's all good now! [pic.twitter.com/wQ3JIxTjJA](http://t.co/wQ3JIxTjJA) — ツ Erika (@ercchy) [July 21, 2014](https://twitter.com/ercchy/statuses/491206531946672128)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This was just before we solved the problem <a href="https://twitter.com/djangogirls">@djangogirls</a>. It&#39;s all good now! <a href="http://t.co/wQ3JIxTjJA">pic.twitter.com/wQ3JIxTjJA</a></p>&mdash; erika.__dict__ (@ercchy) <a href="https://twitter.com/ercchy/status/491206531946672128">July 21, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Having managed to convince my coach [Erika](https://twitter.com/ercchy) (you're my kind of crazy, lady!) to humor me with my video portfolio idea, we hacked at the back-end database in order to make the object classes as flexible and reusable as possible.
 
@@ -132,9 +132,8 @@ Oh yeah, documenting data integration software \*really\* helped me understand b
 
 At the end of the day I had even more luck thanks to my recent experience with Git, as deploying to [Heroku](https://www.heroku.com/)'s hosting service involved creating and pushing a Git repo to their servers. Once again I was surprised at how much I knew already, and I felt accomplished and very proud of the site that I built. It might not be the sexiest thing out there, but it works as I envisioned it and it is mine. And Erika's ;-)
 
-> See what [@thatdocslady](https://twitter.com/thatdocslady) build during [@djangogirls](https://twitter.com/djangogirls): <http://t.co/5IXwHWkKUW> So proud! \<3 [\#ep14](https://twitter.com/hashtag/ep14?src=hash) [\#europython](https://twitter.com/hashtag/europython?src=hash)
->
-> — Ola Sitarska (@olasitarska) [July 23, 2014](https://twitter.com/olasitarska/statuses/491934633106227201)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">See what <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> build during <a href="https://twitter.com/djangogirls">@djangogirls</a>: <a href="http://t.co/5IXwHWkKUW">http://t.co/5IXwHWkKUW</a> So proud! &lt;3 <a href="https://twitter.com/hashtag/ep14?src=hash">#ep14</a> <a href="https://twitter.com/hashtag/europython?src=hash">#europython</a></p>&mdash; Ola Sitarska (@olasitarska) <a href="https://twitter.com/olasitarska/status/491934633106227201">July 23, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Final words
 -----------
