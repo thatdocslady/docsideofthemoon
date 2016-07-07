@@ -11,7 +11,7 @@ tags: community, red hat, DevConf, django girls, diversity
 
 When I graduated from the first [Django Girls workshop at EuroPython](http://docsideofthemoon.com/2014/08/05/django-girls-europython-2014/ "Django Girls @ EuroPython 2014 – Girl-power to geek-power") last summer, I knew that I simply had to bring the workshop to my current hometown of Brno, Czech Republic. It took some time, but I'm happy to report that it was worth the wait!
 
-![DSC\_1574]({{%20site.baseurl%20}}/assets/dsc_1574.jpg?w=646)
+![DSC\_1574]({{%20site.baseurl%20}}/images/dsc_1574.jpg?w=646)
 
 It takes a village...
 ---------------------
@@ -29,19 +29,18 @@ We decided to partner up with [DevConf.cz](http://devconf.cz/), one of the bigge
 
 In addition to DevConf, we were also fortunate to be sponsored by both the local [Red Hat](https://twitter.com/redhatcz) office and [ElasticSearch](https://twitter.com/elasticsearch), whose support enabled us to have a great space for the workshop, food, travel aid, swag, and much needed cupcakes.
 
-> .[@djangogirlsbrno](https://twitter.com/DjangoGirlsBrno) presenting....Cup cakes! Yaay!:) [\#devconfcz](https://twitter.com/hashtag/devconfcz?src=hash) <http://t.co/fV952oZcIV> [pic.twitter.com/fSinfkCwMV](http://t.co/fSinfkCwMV)
->
-> — Václav Pavlín (@vpavlin) [February 6, 2015](https://twitter.com/vpavlin/status/563597354562228224)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/DjangoGirlsBrno">@djangogirlsbrno</a> presenting....Cup cakes! Yaay!:) <a href="https://twitter.com/hashtag/devconfcz?src=hash">#devconfcz</a> <a href="http://t.co/fV952oZcIV">http://t.co/fV952oZcIV</a> <a href="http://t.co/fSinfkCwMV">pic.twitter.com/fSinfkCwMV</a></p>&mdash; Václav Pavlín (@vpavlin) <a href="https://twitter.com/vpavlin/status/563597354562228224">February 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Cupcakes at [@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno) 😍 [pic.twitter.com/3wxP7ROd66](http://t.co/3wxP7ROd66)
->
-> — kinga kieczkowska (@kieczkowska) [February 5, 2015](https://twitter.com/kieczkowska/status/563266584056434689)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cupcakes at <a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a> 😍 <a href="http://t.co/3wxP7ROd66">pic.twitter.com/3wxP7ROd66</a></p>&mdash; kinga kieczkowska (@kieczkowska) <a href="https://twitter.com/kieczkowska/status/563266584056434689">February 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Did I mention cupcakes?
 
-> .[@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno) cupcakes are in Kraków! Thank you [@bmispelon](https://twitter.com/bmispelon) 🍰🍩💖 [pic.twitter.com/uyNB5GC2C9](http://t.co/uyNB5GC2C9) — Ola Sendecka (@asendecka) [February 7, 2015](https://twitter.com/asendecka/status/563968597505355776)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="pl" dir="ltr">.<a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a> cupcakes are in Kraków! Thank you <a href="https://twitter.com/bmispelon">@bmispelon</a> 🍰🍩💖 <a href="http://t.co/uyNB5GC2C9">pic.twitter.com/uyNB5GC2C9</a></p>&mdash; Ola Sendecka (@asendecka) <a href="https://twitter.com/asendecka/status/563968597505355776">February 7, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And yes, this cupcake made it to Krakow without being eaten by [Baptiste](https://twitter.com/bmispelon), our meta-coach. That takes determination!
+Yes, this cupcake made it to Krakow without being eaten by [Baptiste](https://twitter.com/bmispelon), our meta-coach. That takes determination!
 
 Ready, set, code!
 -----------------
@@ -50,15 +49,15 @@ Our workshop had 27 participants (out of over 160 applicants!) and 11 coaches (i
 
 On the morning of the workshop we (as in the organizers) turned up at the venue at 7:00am, as the breakfast delivery was scheduled to arrive at 7:30am. The things we'd do for breakfast...!
 
-> [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [pic.twitter.com/MIC2rhQeWQ](http://t.co/MIC2rhQeWQ)
->
-> — Baptiste Mispelon (@bmispelon) [February 5, 2015](https://twitter.com/bmispelon/status/563272386091708417)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="http://t.co/MIC2rhQeWQ">pic.twitter.com/MIC2rhQeWQ</a></p>&mdash; Baptiste Mispelon (@bmispelon) <a href="https://twitter.com/bmispelon/status/563272386091708417">February 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ok, so some breakfasts are worth it...
 
 At 9:00am we welcomed our participants (who actually started arriving around 7:40am!), and kicked off the workshop. By the end of the day, almost everyone finished the tutorial, and even the ones who didn't made it to a very advanced stage and still felt accomplished (which is kinda the point, yeah?).
 
-> The girls happily hacking away at the [\#django](https://twitter.com/hashtag/django?src=hash) apps! Go go [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) :-) [pic.twitter.com/j92saOY7pV](http://t.co/j92saOY7pV) — Django Girls Brno (@DjangoGirlsBrno) [February 5, 2015](https://twitter.com/DjangoGirlsBrno/status/563357196902477827)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The girls happily hacking away at the <a href="https://twitter.com/hashtag/django?src=hash">#django</a> apps! Go go <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> :-) <a href="http://t.co/j92saOY7pV">pic.twitter.com/j92saOY7pV</a></p>&mdash; Django Girls Brno (@DjangoGirlsBrno) <a href="https://twitter.com/DjangoGirlsBrno/status/563357196902477827">February 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Special guests make for a special day!
 --------------------------------------
@@ -67,15 +66,15 @@ We decided to include two guest presentations that we felt enriched the experie
 
 The first presentation was from one of our coaches [Dori Czapari](https://twitter.com/doriczapari) (another GD@EP graduate, and organizer of [Django Girls Budapest](https://twitter.com/djangogirls_BP)) who recently started her first job as a Python developer! Dori shared how participating in Django Girls workshop helped her gain that extra confidence boost that she needed to pursue her career in programming.
 
-> [@doriczapari](https://twitter.com/doriczapari) presenting her awesome story [@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno) [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [pic.twitter.com/hzQCBWZNtf](http://t.co/hzQCBWZNtf)
->
-> — kinga kieczkowska (@kieczkowska) [February 5, 2015](https://twitter.com/kieczkowska/status/563278281093709824)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/doriczapari">@doriczapari</a> presenting her awesome story <a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a> <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="http://t.co/hzQCBWZNtf">pic.twitter.com/hzQCBWZNtf</a></p>&mdash; kinga kieczkowska (@kieczkowska) <a href="https://twitter.com/kieczkowska/status/563278281093709824">February 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The second presentation was from Denise Dumas, who currently serves as the Vice President of OS Platform at Red Hat. Denise is one badass lady, having started as a kernel hacker some decades ago and now runs a 500-person engineering organization within Red Hat.
 
 Denise walked our participants through the different roles that one can pursue in IT beyond classic programming, and introduced the participants to the concept of open source projects, where starting out is as easy as creating a GitHub account.
 
-> RT [@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno): Denise Dumas from [\#RedHat](https://twitter.com/hashtag/RedHat?src=hash) shares her story in engineering + open source: [\#womenintech](https://twitter.com/hashtag/womenintech?src=hash) [pic.twitter.com/09Amjd7hMG](http://t.co/09Amjd7hMG) — Jim Whitehurst (@JWhitehurst) [February 16, 2015](https://twitter.com/JWhitehurst/status/567320094985158656)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT <a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a>: Denise Dumas from <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> shares her story in engineering + open source:  <a href="https://twitter.com/hashtag/womenintech?src=hash">#womenintech</a> <a href="http://t.co/09Amjd7hMG">pic.twitter.com/09Amjd7hMG</a></p>&mdash; Jim Whitehurst (@JWhitehurst) <a href="https://twitter.com/JWhitehurst/status/567320094985158656">February 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 After-party with Czechitas
 --------------------------
@@ -86,7 +85,8 @@ We also had one last surprise for them, when [Pavla](https://twitter.com/PavlaR
 
 With previous collaborations with Rails Girls, Data Girls, and PyLadies, it's only natural that we would work together to increase our reach to women in the region. Scroll to the bottom of this post if you're impatient, good things are coming up ahead!
 
-> Oh yeah, one last surprise guest: give it up for Pavla from [@czechitas](https://twitter.com/czechitas)! Thank you for your support :-) [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [pic.twitter.com/TMhu4ZNW3I](http://t.co/TMhu4ZNW3I) — Django Girls Brno (@DjangoGirlsBrno) [February 5, 2015](https://twitter.com/DjangoGirlsBrno/status/563428375034089474)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Oh yeah, one last surprise guest: give it up for Pavla from <a href="https://twitter.com/czechitas">@czechitas</a>! Thank you for your support :-) <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="http://t.co/TMhu4ZNW3I">pic.twitter.com/TMhu4ZNW3I</a></p>&mdash; Django Girls Brno (@DjangoGirlsBrno) <a href="https://twitter.com/DjangoGirlsBrno/status/563428375034089474">February 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Meanwhile, at DevConf...
 ------------------------
@@ -95,15 +95,18 @@ Seeing that we had a lot of leftover swag and cupcakes, we decided on a whim to 
 
 It also meant that our graduates had a "home base" that they can always come back to if they feel lost (and let's face it, being a newcomer at a developer conference can be scary!), so it helped them feel more comfortable and confident of their place in the event.
 
-> [@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno) booth [@devconf\_cz](https://twitter.com/devconf_cz) ! [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [@thatdocslady](https://twitter.com/thatdocslady) [@EnCuKou](https://twitter.com/EnCuKou) [@doriczapari](https://twitter.com/doriczapari) [pic.twitter.com/GNpPB6VlaO](http://t.co/GNpPB6VlaO) — kinga kieczkowska (@kieczkowska) [February 6, 2015](https://twitter.com/kieczkowska/status/563657096290643968)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a> booth <a href="https://twitter.com/devconf_cz">@devconf_cz</a> ! <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> <a href="https://twitter.com/EnCuKou">@EnCuKou</a> <a href="https://twitter.com/doriczapari">@doriczapari</a> <a href="http://t.co/GNpPB6VlaO">pic.twitter.com/GNpPB6VlaO</a></p>&mdash; kinga kieczkowska (@kieczkowska) <a href="https://twitter.com/kieczkowska/status/563657096290643968">February 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Another last-minute effort was to submit a lightning talk proposal on the morning of the first day (second-highest number of votes FTW!), and later that day I got to introduce the program to ~20 conference attendees and call out for help with future events and our hackfest, which was scheduled for the last day of the conference.
 
-> Great lightning talk on [@djangogirls](https://twitter.com/djangogirls) by [@thatdocslady](https://twitter.com/thatdocslady) kicks off last session of the day at [\#DevConfCZ](https://twitter.com/hashtag/DevConfCZ?src=hash). [pic.twitter.com/WG7Bvhg63U](http://t.co/WG7Bvhg63U) — Paul W. Frields (@stickster) [February 6, 2015](https://twitter.com/stickster/status/563739783898624000)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great lightning talk on <a href="https://twitter.com/djangogirls">@djangogirls</a> by <a href="https://twitter.com/ThatDocsLady">@thatdocslady</a> kicks off last session of the day at <a href="https://twitter.com/hashtag/DevConfCZ?src=hash">#DevConfCZ</a>. <a href="http://t.co/WG7Bvhg63U">pic.twitter.com/WG7Bvhg63U</a></p>&mdash; Paul W. Frields (@stickster) <a href="https://twitter.com/stickster/status/563739783898624000">February 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The hackfest itself was pretty relaxed, with some interesting brainstorming sessions and a lovely surprise in the form of a woman who came in asking for help with the tutorial that she's started working on by herself! Luckily, a Red Hat developer came to the hackfest to learn how to coach, so we paired them up and they finished about 2/3 of the tutorial in 2.5 hours!
 
-> One red hatter is learning how to coach while working on the [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) tutorial! [\#DevConfCZ](https://twitter.com/hashtag/DevConfCZ?src=hash) [\#redhat](https://twitter.com/hashtag/redhat?src=hash) [pic.twitter.com/Z7hVrRkMOP](http://t.co/Z7hVrRkMOP) — Django Girls Brno (@DjangoGirlsBrno) [February 8, 2015](https://twitter.com/DjangoGirlsBrno/status/564370677793587200)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One red hatter is learning how to coach while working on the <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> tutorial! <a href="https://twitter.com/hashtag/DevConfCZ?src=hash">#DevConfCZ</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="http://t.co/Z7hVrRkMOP">pic.twitter.com/Z7hVrRkMOP</a></p>&mdash; Django Girls Brno (@DjangoGirlsBrno) <a href="https://twitter.com/DjangoGirlsBrno/status/564370677793587200">February 8, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 To be continued... Sooner than you think!
 -----------------------------------------
@@ -120,6 +123,5 @@ Details, directions, and other tidbits can be found in the [Lanyard page for the
 
 Thank you Django Girls, you rock my world. And apparently, this Red Hatter's world too:
 
-> Ada Lovelace agrees, [@Djangogirls](https://twitter.com/djangogirls) rock. [@DjangoGirlsBrno](https://twitter.com/DjangoGirlsBrno) [\#djangogirls](https://twitter.com/hashtag/djangogirls?src=hash) [pic.twitter.com/W9UUOWFfNl](http://t.co/W9UUOWFfNl)
->
-> — Ian McLeod (@iansmcleod) [February 8, 2015](https://twitter.com/iansmcleod/status/564416114822615040)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ada Lovelace agrees, <a href="https://twitter.com/djangogirls">@Djangogirls</a> rock. <a href="https://twitter.com/DjangoGirlsBrno">@DjangoGirlsBrno</a> <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="http://t.co/W9UUOWFfNl">pic.twitter.com/W9UUOWFfNl</a></p>&mdash; Ian McLeod (@iansmcleod) <a href="https://twitter.com/iansmcleod/status/564416114822615040">February 8, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

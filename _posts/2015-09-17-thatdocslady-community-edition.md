@@ -8,8 +8,6 @@ tags: red hat, community, ovirt
 
 After nearly 7 years of professional technical writing, I'm embarking on my next adventure in Red Hat as the [new community lead for the oVirt project](http://community.redhat.com/blog/2015/09/welcome-to-the-new-ovirt-community-lead/).
 
-Surprised? Curious? Read on :-)
-
 Those who've known me for a while might remember that I have a tendency to reinvent myself every few years. Sleep is overrated.
 
 From my first career as a TV production manager and stage producer, to my second career as a technical writer, I always had absolute commitment to the path I chose but tried to keep an open mind to new directions, and never stopped developing myself.

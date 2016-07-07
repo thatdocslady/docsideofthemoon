@@ -11,7 +11,7 @@ tags: FOSDEM, django girls, write the docs
 
 Having returned to civilization a few days ago from a 3-week no-computer-no-phone-no-work vacation (the first in many years) to the beaches of Brazil, I'm ready to welcome 2015 with a big hug and the highest of fives!
 
-![highest of fives]({{%20site.baseurl%20}}/assets/i-request-the-highest-of-fives-himym.gif)
+![highest of fives]({{%20site.baseurl%20}}/images/i-request-the-highest-of-fives-himym.gif)
 
 So far it looks like it's going to be a good year, lots of cool projects at work and beyond:
 
@@ -29,4 +29,4 @@ Bring it on, 2015!!!
 
 Also, Brazil:
 
-[![10900048\_10152960658651672\_7002982932386070231\_o]({{%20site.baseurl%20}}/assets/10900048_10152960658651672_7002982932386070231_o.jpg?w=660)](https://docsideofthemoon.com/images/10900048_10152960658651672_7002982932386070231_o.jpg)
+![10900048\_10152960658651672\_7002982932386070231\_o]({{%20site.baseurl%20}}/images/10900048_10152960658651672_7002982932386070231_o.jpg?w=660)]
