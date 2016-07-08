@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font: 18px/1.4 $catamaran;
+  color: $darkerGray;
 }
 
 .container {
@@ -31,9 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $bree;
   color: $darkGray;
-  font-weight: bold;
+  font-weight: normal;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -45,14 +45,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 28px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 24px;
 }
 
 h3 {
@@ -152,13 +152,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $paleGreen;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -196,16 +194,16 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: bold;
-  font-size: 30px;
+  font-family: $bree;
+  font-weight: normal;
+  font-size: 36px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkGray;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: normal;
 
   @include mobile {
     margin: 3px 0;
@@ -215,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $bree;
   font-size: 18px;
 
   @include mobile {
@@ -275,9 +273,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $paleGreen;
 }
 
 footer {
