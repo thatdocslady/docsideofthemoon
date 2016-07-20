@@ -20,4 +20,5 @@ My journey behind the scenes of a community was exciting, enlightening, and I am
 Oh yeah, and welcome to my upgraded blog. I liberated myself from the WordPress overlords and switched to a Jekyll site served over GitHub Pages. It's about time that the shoemaker made themselves a pair of shoes :)
 
 Stay happy,
+
 Mikey
