@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Articles I've Written
 permalink: /publications/
 sidebar_link: true
 ---
@@ -18,5 +18,3 @@ My love for writing extends beyond technical documentation. Here are a few artic
 [What can DevOps do for your documentation?](https://opensource.com/business/15/7/documentation-devops) (Opensource.com, July 2015)
 
 [Content strategy: The new philosophy of technical documentation](https://opensource.com/business/15/6/documentation-content-strategy) (Opensource.com, June 2015)
-
-
