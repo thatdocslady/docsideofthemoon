@@ -4,7 +4,6 @@
 
 h1, h2, h3, h4, h5, h6, .site-title {
   margin-bottom: $heading-spacing;
-  font-family: "Bree Serif";
   font-weight: normal;
   line-height: 1.25;
   color: $heading-color;
@@ -13,16 +12,19 @@ h1, h2, h3, h4, h5, h6, .site-title {
 
 h1 {
   font-size: 2rem;
+  font-family: "Bree Serif";
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-family: "Bree Serif";
 }
 
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  font-family: "Bree Serif";
 }
 
 h4, h5, h6 {
