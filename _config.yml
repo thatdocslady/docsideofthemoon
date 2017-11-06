@@ -1,6 +1,5 @@
 # Setup
-title:       'The Doc Side of the Moon'
-tagline:     'The traveling Documentarian blog'
+name:       'The Doc Side of the Moon'
 description: 'My journey as a technical writer, Red Hatter, open-source community advocate, Write the Docs documentarian, Django Girl, traveler, language nerd, geek, human.'
 url:         http://www.docsideofthemoon.com
 
