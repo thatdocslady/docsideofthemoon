@@ -1,19 +1,14 @@
 # Setup
-title:            The Doc Side of the Moon
-tagline:          'The traveling Documentarian blog'
-description:      'My journey as a technical writer, Red Hatter, open-source community advocate, Write the Docs documentarian, Django Girl, traveler, language nerd, geek, human.'
-url:              http://www.docsideofthemoon.com
-baseurl:          # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title:       The Doc Side of the Moon
+tagline:     'The traveling Documentarian blog'
+description: 'My journey as a technical writer, Red Hatter, open-source community advocate, Write the Docs documentarian, Django Girl, traveler, language nerd, geek, human.'
+url:         http://www.docsideofthemoon.com
 
 author:
-  name:           'Mikey Ariel'
-  email: 	  docs@docsideofthemoon.com
-  github: 	  thatdocslady
-  twitter:        ThatDocsLady
+  name:      'Mikey Ariel'
+  email:     docs@docsideofthemoon.com
+  github:    thatdocslady
+  twitter:   ThatDocsLady
 
 paginate:         3
 # paginate_path:    '/page:num'
@@ -32,13 +27,5 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-  repo:             https://github.com/thatdocslady/thatdocslady.github.io
-  permalink: 	    /:title/
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+  repo:          https://github.com/thatdocslady/thatdocslady.github.io
+  permalink:     /:title/
