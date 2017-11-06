@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Articles I've Written
-permalink: /publications/
+permalink: /articles/
 sidebar_link: true
 ---
 
 
 My love for writing extends beyond technical documentation. Here are a few articles I published, more coming soon!
-
 
 [Docs or it didn’t happen](https://opensource.com/business/15/8/docs-or-it-didnt-happen) (Opensource.com, August 2015)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who Am I?
-permalink:/about/
+permalink: /about/
 sidebar_link: true
 ---
 
