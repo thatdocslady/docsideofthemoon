@@ -5,7 +5,7 @@ date: 2015-02-18 17:26:33.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: events
+categories: Django Girls
 tags: community, red hat, DevConf, django girls, diversity
 ---
 

@@ -5,7 +5,7 @@ date: 2014-08-05 10:50:08.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: events
+categories: Django Girls
 tags: django girls, diversity, EuroPython
 ---
 
