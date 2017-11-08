@@ -4,7 +4,6 @@ title: Write the Docs EU 2014, the beginning of my journey as a documentarian
 date: 2014-05-17 11:45:07 +02:00
 type: post
 published: true
-categories: Write the Docs
 tags: agile, community, write the docs, read the docs
 ---
 

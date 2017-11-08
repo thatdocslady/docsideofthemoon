@@ -5,7 +5,6 @@ date: 2014-07-03 10:45:41.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: announcements
 tags: write the docs, community, Django Girls, EuroPython
 ---
 

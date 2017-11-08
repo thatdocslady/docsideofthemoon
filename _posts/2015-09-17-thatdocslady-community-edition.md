@@ -2,7 +2,6 @@
 layout: post
 title: Announcing ThatDocsLady 2.0 Community Edition
 date: 2015-09-17 10:29:18.000000000 +02:00
-categories: announcements
 tags: red hat, community, ovirt
 ---
 

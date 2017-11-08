@@ -5,7 +5,6 @@ date: 2014-05-27 11:53:42.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: announcements
 tags: community, unconference, write the docs
 ---
 

@@ -5,7 +5,6 @@ date: 2015-04-17 17:56:17.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: announcements
 tags: events, community, django girls, write the docs, openstack, redhat
 ---
 

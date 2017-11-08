@@ -5,7 +5,6 @@ date: 2015-01-15 13:59:36.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: announcements
 tags: FOSDEM, django girls, write the docs
 ---
 

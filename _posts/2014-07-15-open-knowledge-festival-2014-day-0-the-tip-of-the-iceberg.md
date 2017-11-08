@@ -5,7 +5,6 @@ date: 2014-07-15 23:44:23.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: conferences
 tags: Open Knowledge Festival
 ---
 
