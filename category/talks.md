@@ -10,8 +10,8 @@ These days I try to implement a more balanced life model, which means I don't pr
 ### Docs or it didn't happen!
 PyCon UK, October 2017 [VIDEO](https://youtu.be/muhxjdxhIR0) [SLIDES](https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen)
 
-### Healthy Minds in a Healthy Community (co-presented with [Erik Romijn](https://twitter.com/erikpub))
-DjangoCon Europe, March 2016 [VIDEO](https://opbeat.com/events/djangocon-eu-2016/) [SLIDES](https://github.com/erikr/well-being)
+### Healthy Minds in a Healthy Community (co-presented with [Sasha Romijn](https://twitter.com/erikpub))
+DjangoCon Europe, March 2016 [VIDEO](https://opbeat.com/community/posts/healthy-minds-in-a-healthy-community-by-erik-romijn-and-mikey-ariel/) [SLIDES](https://github.com/erikr/well-being)
 
 ### Ask what your DevOps can do for your... Docs?
 LinuxCon Europe, October 2015 [SLIDES](https://speakerdeck.com/thatdocslady/ask-what-your-devops-can-do-for-your-dot-dot-dot-docs)
