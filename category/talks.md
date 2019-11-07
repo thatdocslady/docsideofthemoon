@@ -11,9 +11,9 @@ These days I try to implement a more balanced life model, which means I don't pr
 Write the Docs podcast, December 2017 [VIDEO](http://podcast.writethedocs.org/2017/12/13/founding-principles-of-write-the-docs/)
 
 ### Docs or it didn't happen!
-PyCon UK, October 2017 [VIDEO](https://youtu.be/muhxjdxhIR0) [SLIDES](https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen)
+DjangoCon Europe, April 2019 [VIDEO](https://www.youtube.com/watch?v=gwVxNHO9Lh0) [SLIDES](https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen-djangocon-europe-2019)
 
-### Healthy Minds in a Healthy Community (co-presented with [Sasha Romijn](https://twitter.com/erikpub))
+### Healthy Minds in a Healthy Community (co-presented with [Sasha Romijn](https://twitter.com/mxsash))
 DjangoCon Europe, March 2016 [VIDEO](https://opbeat.com/community/posts/healthy-minds-in-a-healthy-community-by-erik-romijn-and-mikey-ariel/) [SLIDES](https://github.com/erikr/well-being)
 
 ### Ask what your DevOps can do for your... Docs?
