@@ -9,8 +9,11 @@ These days I try to implement a more balanced life model, which means I don't pr
 
 ## Conference talks
 
-### Docs or it didn't happen!
+### Docs or it didn't happen! (keynote)
 DjangoCon Europe, April 2019 [VIDEO](https://www.youtube.com/watch?v=gwVxNHO9Lh0) [SLIDES](https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen-djangocon-europe-2019)
+
+### Can we make the lightbulb want to change?
+PyCon Italia, April 2018 [VIDEO](https://pyvideo.org/pycon-italia-2018/can-we-make-the-light-bulb-want-to-change.html) [SLIDES](https://speakerdeck.com/thatdocslady/can-we-make-the-lightbulb-want-to-change-pycon-italia-2018)
 
 ### Healthy Minds in a Healthy Community (co-presented with [Sasha Romijn](https://twitter.com/mxsash))
 DjangoCon Europe, March 2016 [VIDEO](https://opbeat.com/community/posts/healthy-minds-in-a-healthy-community-by-erik-romijn-and-mikey-ariel/) [SLIDES](https://github.com/erikr/well-being)
